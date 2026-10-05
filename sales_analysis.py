@@ -1,12 +1,24 @@
 # Customer Sales Analysis
-# My first GitHub Python project
 
-customers = 100
-total_sales = 250000
-average_sales = total_sales / customers
+## About the Project
 
-print("Customer Sales Analysis")
-print("-----------------------")
-print("Number of customers:", customers)
-print("Total sales:", total_sales)
-print("Average sales per customer:", average_sales)
+This is my first GitHub project.
+
+The project demonstrates a basic Python analysis of customer sales data.
+
+## Objective
+
+The objective is to calculate:
+
+- Number of customers
+- Total sales
+- Average sales per customer
+
+## Tools Used
+
+- Python
+- GitHub
+
+## Project Status
+
+Beginner project — currently learning Python, GitHub, and Data Analysis.
