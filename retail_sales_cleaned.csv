@@ -1,0 +1,7 @@
+Order_ID,Product,Category,Sales,Quantity
+101,Laptop,Computers,50000.0,5
+102,Mobile,Electronics,30000.0,10
+103,Tablet,Electronics,20000.0,8
+104,Laptop,Computers,55000.0,6
+105,Mobile,Electronics,30000.0,12
+106,Tablet,Electronics,22000.0,9
